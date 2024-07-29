@@ -1,6 +1,3 @@
-Sure! Here is the README in Markdown format:
-
----
 
 # Suit Jawa Game
 
